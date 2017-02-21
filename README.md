@@ -25,3 +25,8 @@ only ports 2200(ssh), 8080(http), and 123(ntp) are up
 sudo apt-get udpade & 
 sudo apt-get upgrade have both been run
 
+# Helpfull Resources:
+https://discussions.udacity.com/t/p5-how-i-got-through-it/15342
+https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-an-ubuntu-14-04-vps
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+https://www.postgresql.org/docs/8.0/static/sql-alteruser.html
